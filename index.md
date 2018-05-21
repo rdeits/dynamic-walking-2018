@@ -226,3 +226,4 @@ Initial velocity: $+1 \frac{m}{s}$
 Thanks to Twan Koolen, Tobia Marcucci, and Russ Tedrake for their expertise and assistance.
 </p>
 </div>
+
